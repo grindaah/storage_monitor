@@ -1,0 +1,4 @@
+C:\Users\grind\source\repos\storageMonitor\Debug\diskutils.pdb
+C:\Users\grind\source\repos\storageMonitor\diskutils\Debug\diskutils.pdb
+D:\learn\storageMonitor\Debug\diskutils.pdb
+D:\learn\storageMonitor\diskutils\Debug\diskutils.pdb

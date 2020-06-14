@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  diskutils.cpp
+  pathutils.cpp
+  Generating Code...
+  diskutils.vcxproj -> D:\learn\storageMonitor\Debug\diskutils.lib
